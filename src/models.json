@@ -1,0 +1,651 @@
+{
+    "cars": {
+        "Mercedes-Benz": {
+            "series": {
+                "C-class": {
+                    "models": {
+                        "w206": {
+                            "0": {
+                                "name": "Mercedez-Benz C-Класс 180",
+                                "price": 6899999,
+                                "year": 2024,
+                                "media": 
+                                    [
+                                    "./public/mercedes/car14.png",
+                                    "./public/mercedes/car14_1.png",
+                                    "./public/mercedes/car14_2.png" ]
+                                
+                            }
+                        },
+                        "w205": {
+                            "0": {
+                                "name": "Mercedez-Benz C-Класс 200",
+                                "price": 4599000,
+                                "year": 2019,
+                                "media": [
+                                    "./public/mercedes/car15.png",
+                                    "./public/mercedes/car15_1.png",
+                                    "./public/mercedes/car15_2.png"
+                                ]
+                            }
+                        },
+                        "w204": {
+                            "0": {
+                                "name": "Mercedez-Benz C-Класс 300",
+                                "price": 1449000,
+                                "year": 2013,
+                                "media": [
+                                    "./public/mercedes/car16.png",
+                                    "./public/mercedes/car16_1.png",
+                                    "./public/mercedes/car16_2.png"
+                                ]
+                                
+                            }
+                        }
+                    }
+                },
+                "E-class": {
+                    "models": {
+                        "w214": {
+                            "0": {
+                                "name": "Mercedez-Benz E-Класс 220 d",
+                                "price": 11999000,
+                                "year": 2023,
+                                "media": [
+                                    "./public/mercedes/car8.png",
+                                    "./public/mercedes/car8_1.png",
+                                    "./public/mercedes/car8_2.png"
+                                ]
+                            },
+                            "1": {
+                                "name": "Mercedez-Benz E-Класс 300 e",
+                                "price": 11900000,
+                                "year": 2023,
+                                "media": [
+                                    "./public/mercedes/car9.png",
+                                    "./public/mercedes/car9_1.png",
+                                    "./public/mercedes/car9_2.png"
+                                ]
+                            }
+                        },
+                        "w213": {
+                            "0": {
+                                "name": "Mercedez-Benz E-Класс 200 d",
+                                "price": 4230000,
+                                "year": 2020,
+                                "media": [
+                                    "./public/mercedes/car10.png",
+                                    "./public/mercedes/car10_1.png",
+                                    "./public/mercedes/car10_2.png"
+                                ]
+                            },
+                            "1": {
+                                "name": "Mercedez-Benz E-Класс 220 d",
+                                "price": 6370000,
+                                "year": 2022,
+                                "media": [
+                                    "./public/mercedes/car11.png",
+                                    "./public/mercedes/car11_1.png",
+                                    "./public/mercedes/car11_2.png"
+                                ]
+                            }
+                        },
+                        "w212": {
+                            "0": {
+                                "name": "Mercedez-Benz E-Класс 200",
+                                "price": 1699000,
+                                "year": 2013,
+                                "media": [
+                                    "./public/mercedes/car12.png",
+                                    "./public/mercedes/car12_1.png",
+                                    "./public/mercedes/car12_2.png"
+                                ]
+                            },
+                            "1": {
+                                "name": "Mercedez-Benz E-Класс 300",
+                                "price": 2499000,
+                                "year": 2013,
+                                "media": [
+                                    "./public/mercedes/car13.png",
+                                    "./public/mercedes/car13_1.png",
+                                    "./public/mercedes/car13_2.png"
+                                ]
+                            }
+                        }
+                    }
+                },
+                "GLC": {
+                    "models": {
+                        "x254": {
+                            "0": {
+                                "name": "Mercedez-Benz GLC 220 d",
+                                "price": 8900000,
+                                "year": 2022,
+                                "media": [
+                                    "./public/mercedes/car6.png",
+                                    "./public/mercedes/car6_1.png",
+                                    "./public/mercedes/car6_2.png"
+                                ]
+                            },
+                            "1": {
+                                "name": "Mercedez-Benz GLC 300",
+                                "price": 10495000,
+                                "year": 2023,
+                                "media": [
+                                    "./public/mercedes/car7.png",
+                                    "./public/mercedes/car7_1.png",
+                                    "./public/mercedes/car7_2.png"
+                                ]
+                            }
+                        }
+                    }
+                },
+                "GLE": {
+                    "models": {
+                        "v167": {
+                            "0": {
+                                "name": "Mercedez-Benz GLE 450",
+                                "price": 18500900,
+                                "year": 2023,
+                                "media": [
+                                    "./public/mercedes/car4.png",
+                                    "./public/mercedes/car4_1.png",
+                                    "./public/mercedes/car4_2.png"
+                                ]
+                            },
+                            "1": {
+                                "name": "Mercedez-Benz GLE 300 d",
+                                "price": 14500900,
+                                "year": 2023,
+                                "media": [
+                                    "./public/mercedes/car5.png",
+                                    "./public/mercedes/car5_1.png",
+                                    "./public/mercedes/car5_2.png"
+                                ]
+                            }
+                        }
+                    }
+                },
+                "S-class": {
+                    "models": {
+                        "x222": {
+                            "0": {
+                                "name": "Mercedez-Benz Maybach S-Класс 560",
+                                "price": 8889000,
+                                "year": 2017,
+                                "media": [
+                                    "./public/mercedes/car2.png",
+                                    "./public/mercedes/car2_1.png",
+                                    "./public/mercedes/car2_2.png"
+                                ]
+                            },
+                            "1": {
+                                "name": "Mercedez-Benz Maybach S-Класс 450",
+                                "price": 7949700,
+                                "year": 2018,
+                                "media": [
+                                    "./public/mercedes/car3.png",
+                                    "./public/mercedes/car3_1.png",
+                                    "./public/mercedes/car3_2.png"
+                                ]
+                            }
+                        }
+                    }
+                },
+                "V-class": {
+                    "models": {
+                        "2": {
+                            "0": {
+                                "name": "Mercedez-Benz V-Класс L 250 длинный",
+                                "price": 6350000,
+                                "year": 2020,
+                                "media": [
+                                    "./public/mercedes/car0.png",
+                                    "./public/mercedes/car0_1.png",
+                                    "./public/mercedes/car0_2.png"
+                                ]
+                            },
+                            "1": {
+                                "name": "Mercedez-Benz V-Класс 300 d экстра длинный",
+                                "price": 39000000,
+                                "year": 2021,
+                                "media": [
+                                    "./public/mercedes/car1.png",
+                                    "./public/mercedes/car1_1.png", 
+                                    "./public/mercedes/car1_2.png"
+                                ]
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "BMW": {
+            "series": {
+                "Series 1": {
+                    "models": {
+                        "F40": {
+                            "0": {
+                                "name": "BMW 1 серии 118i (F40)",
+                                "price": 2950000,
+                                "year": 2020,
+                                "media": [
+                                    "./public/bmw/car0.png",
+                                    "./public/mercedes/car0_1.png",
+                                    "./public/mercedes/car0_2.png"
+                                ]
+                            },
+                            "1": {
+                                "name": "BMW 1 серии 118 d (F40)",
+                                "price": 3650000,
+                                "year": 2020,
+                                "media": [
+                                    "./public/bmw/car1.png",
+                                    "./public/bmw/car1_1.png",
+                                    "./public/bmw/car1_2.png"
+                                ]
+                            }
+                        },
+                        "F20": {
+                            "0": {
+                                "name": "BMW 1 серии 118i (F20/F21)",
+                                "price": 1899000,
+                                "year": 2018,
+                                "media": [
+                                "./public/bmw/car2.png",
+                                "./public/bmw/car2_1.png",
+                                "./public/bmw/car2_2.png"
+                                ]
+                            },
+                            "1": {
+                                "name": "BMW 1 серии 116d (F20/F21)",
+                                "price": 2157000,
+                                "year": 2019,
+                                "media": [
+                                    "./public/bmw/car3.png",
+                                    "./public/bmw/car3_1.png",
+                                    "./public/bmw/car3_2.png"
+                                ]
+                            }
+                        }
+                    }
+                },
+                "Series 3": {
+                    "models": {
+                        "G2x": {
+                            "0": {
+                                "name": "BMW 3 серии 320d",
+                                "price": 3990000,
+                                "year": 2021,
+                                "media": [
+                                    "./public/bmw/car4.png",
+                                    "./public/bmw/car4_1.png",
+                                    "./public/bmw/car4_2.png"
+                                ]
+                            },
+                            "1": {
+                                "name": "BMW 3 серии 330e",
+                                "price": 3549000,
+                                "year": 2019,
+                                "media": [
+                                    "./public/bmw/car5.png",
+                                    "./public/bmw/car5_1.png",
+                                    "./public/bmw/car5_2.png"
+                                ]
+                            }
+                        },
+                        "F3x": {
+                            "0": {
+                                "name": "BMW 3 серии 320i",
+                                "price": 2050000,
+                                "year": 2016,
+                                "media": [
+                                    "./public/bmw/car6.png",
+                                    "./public/bmw/car6_1.png",
+                                    "./public/bmw/car6_2.png"
+                                ]
+                            },
+                            "1": {
+                                "name": "BMW 3 серии 318i",
+                                "price": 2200000,
+                                "year": 2017,
+                                "media": [
+                                    "./public/bmw/car7.png",
+                                    "./public/bmw/car7_1.png",
+                                    "./public/bmw/car7_2.png"
+                                ]
+                            }
+                        }
+                    }
+                },
+                "Series 5": {
+                    "models": {
+                        "G30/G31": {
+                            "0": {
+                                "name": "BMW 5 серии 530d",
+                                "price": 6990000,
+                                "year": 2020,
+                                "media": [
+                                    "./public/bmw/car8.png",
+                                    "./public/bmw/car8_1.png",
+                                    "./public/bmw/car8_2.png"
+                                ]
+                            },
+                            "1": {
+                                "name": "BMW 5 серии 520d",
+                                "price": 6190000,
+                                "year": 2021,
+                                "media": [
+                                    "./public/bmw/car9.png",
+                                    "./public/bmw/car9_1.png",
+                                    "./public/bmw/car9_2.png"
+                                ]
+                            }
+                        },
+                        "F10/F11/F07": {
+                            "0": {
+                                "name": "BMW 5 серии 520d",
+                                "price": 1959000,
+                                "year": 2014,
+                                "media": [
+                                    "./public/bmw/car10.png",
+                                    "./public/bmw/car10_1.png",
+                                    "./public/bmw/car10_2.png"
+                                ]
+                            },
+                            "1": {
+                                "name": "BMW 5 серии 520i",
+                                "price": 2087700,
+                                "year": 2016,
+                                "media": [
+                                    "./public/bmw/car11.png",
+                                    "./public/bmw/car11_1.png",
+                                    "./public/bmw/car11_2.png"
+                                ]
+                            }
+                        }
+                    }
+                },
+                "Series 6": {
+                    "models": {
+                        "G32": {
+                            "0": {
+                                "name": "BMW 6 серии Gran Turismo 630d",
+                                "price": 7150000,
+                                "year": 2021,
+                                "media": [
+                                    "./public/bmw/car12.png",
+                                    "./public/bmw/car12_1.png",
+                                    "./public/bmw/car12_2.png"
+                                ]
+                            },
+                            "1": {
+                                "name": "BMW 6 серии Gran Turismo 620d",
+                                "price": 5490000,
+                                "year": 2020,
+                                "media": [
+                                    "./public/bmw/car13.png",
+                                    "./public/bmw/car13_1.png",
+                                    "./public/bmw/car13_2.png"
+                                ]
+                            }
+                        },
+                        "F06/F13/F12": {
+                            "0": {
+                                "name": "BMW 6 серии Gran Coupe 640d",
+                                "price": 3600000,
+                                "year": 2015,
+                                "media": [
+                                    "./public/bmw/car14.png",
+                                    "./public/bmw/car14_1.png",
+                                    "./public/bmw/car14_2.png"
+                                ]
+                            },
+                            "1": {
+                                "name": "BMW 6 серии Gran Coupe 640i",
+                                "price": 3985000,
+                                "year": 2015,
+                                "media": [
+                                    "./public/bmw/car15.png",
+                                    "./public/bmw/car15_1.png",
+                                    "./public/bmw/car15_2.png"
+                                ]
+                            }
+                        }
+                    }
+                },
+                "Series 7": {
+                    "models": {
+                        "G70": {
+                            "0": {
+                                "name": "BMW 7 серии 740d",
+                                "price": 13800000,
+                                "year": 2023,
+                                "media": [
+                                    "./public/bmw/car16.png",
+                                    "./public/bmw/car16_1.png",
+                                    "./public/bmw/car16_2.png"
+                                ]
+                            },
+                            "1": {
+                                "name": "BMW 7 серии 760i",
+                                "price": 21900000,
+                                "year": 2022,
+                                "media": [
+                                    "./public/bmw/car17.png",
+                                    "./public/bmw/car17_1.png",
+                                    "./public/bmw/car17_2.png"
+                                ]
+                            }
+                        },
+                        "G11/G12": {
+                            "0": {
+                                "name": "BMW 7 серии 750i",
+                                "price": 9500000,
+                                "year": 2019,
+                                "media": [
+                                    "./public/bmw/car18.png",
+                                    "./public/bmw/car18_1.png",
+                                    "./public/bmw/car18_2.png"
+                                ]
+                            },
+                            "1": {
+                                "name": "BMW 7 серии 730i",
+                                "price": 7345000,
+                                "year": 2020,
+                                "media": [
+                                    "./public/bmw/car19.png",
+                                    "./public/bmw/car19_1.png",
+                                    "./public/bmw/car19_2.png"
+                                ]
+                            }
+                        }
+                    }
+                },
+                "X5": {
+                    "models": {
+                        "G05/G18": {
+                            "0": {
+                                "name": "BMW X5 30d",
+                                "price": 17400000,
+                                "year": 2023,
+                                "media": [
+                                    "./public/bmw/car20.png",
+                                    "./public/bmw/car20_1.png",
+                                    "./public/bmw/car20_2.png"
+                                ]
+                            },
+                            "1": {
+                                "name": "BMW X5 40i",
+                                "price": 14990000,
+                                "year": 2023,
+                                "media": [
+                                    "./public/bmw/car21.png",
+                                    "./public/bmw/car21_1.png",
+                                    "./public/bmw/car21_2.png"
+                                ]
+                            }
+                        },
+                        "F15": {
+                            "0": {
+                                "name": "BMW X5 30d", 
+                                "price": 4090000,
+                                "year": 2017,
+                                "media": [
+                                    "./public/bmw/car22.png",
+                                    "./public/bmw/car22_1.png",
+                                    "./public/bmw/car22_2.png"
+                                ]
+                            },
+                            "1": {
+                                "name": "BMW X5 25d",
+                                "price": 3640000,
+                                "year": 2014,
+                                "media": [
+                                    "./public/bmw/car23.png",
+                                    "./public/bmw/car23_1.png",
+                                    "./public/bmw/car23_2.png"
+                                ]
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "Toyota": {
+            "series": {
+                "Camry": {
+                    "models": {
+                        "XV70": {
+                            "0": {
+                                "name": "Toyota Camry 8",
+                                "price": 3525000,
+                                "year": 2021,
+                                "media": [
+                                    "./public/toyota/car0.png",
+                                    "./public/toyota/car0_1.png",
+                                    "./public/toyota/car0_2.png"
+                                ]
+                            },
+                            "1": {
+                                "name": "Toyota Camry 8",
+                                "price": 3098000,
+                                "year": 2022,
+                                "media": [
+                                    "./public/toyota/car1.png",
+                                    "./public/toyota/car1_1.png",
+                                    "./public/toyota/car1_2.png"
+                                ]
+                            }
+                        },
+                        "XV50": {
+                            "0": {
+                                "name": "Toyota Camry 7",
+                                "price": 2070000,
+                                "year": 2016,
+                                "media": [
+                                    "./public/toyota/car2.png",
+                                    "./public/toyota/car2_1.png",
+                                    "./public/toyota/car2_2.png"
+                                ]
+                            },
+                            "1": {
+                                "name": "Toyota Camry 7",
+                                "price": 2228000,
+                                "year": 2016,
+                                "media": [
+                                    "./public/toyota/car3.png",
+                                    "./public/toyota/car3_1.png",
+                                    "./public/toyota/car3_2.png"
+                                ]
+                            }
+                        },
+                        "XV40": {
+                            "0": {
+                                "name": "Toyota Camry 6",
+                                "price": 1739000,
+                                "year": 2011,
+                                "media": [
+                                    "./public/toyota/car4.png",
+                                    "./public/toyota/car4_1.png",
+                                    "./public/toyota/car4_2.png"
+                                ]
+                            }
+                        }
+                    }    
+                },
+                "Corolla": {
+                    "models": {
+                        "E210": {
+                            "0": {
+                                "name": "Toyota Corolla 12",
+                                "price": 2650000,
+                                "year": 2023,
+                                "media": [
+                                    "./public/toyota/car5.png",
+                                    "./public/toyota/car5_1.png",
+                                    "./public/toyota/car5_2.png"
+                                ]
+                            },
+                            "1": {
+                                "name": "Toyota Corolla 12",
+                                "price": 2600000,
+                                "year": 2023,
+                                "media": [
+                                    "./public/toyota/car6.png",
+                                    "./public/toyota/car6_1.png",
+                                    "./public/toyota/car6_2.png"
+                                ]
+                            }
+                        },
+                        "E160, E170": {
+                            "0": {
+                                "name": "Toyota Corolla Fielder 11",
+                                "price": 1700000,
+                                "year": 2017,
+                                "media": [
+                                    "./public/toyota/car7.png",
+                                    "./public/toyota/car7_1.png",
+                                    "./public/toyota/car7_2.png"
+                                ]
+                            },
+                            "1": {
+                                "name": "Toyota Corolla Fielder 11",
+                                "price": 1450000,
+                                "year": 2018,
+                                "media": [
+                                    "./public/toyota/car8.png",
+                                    "./public/toyota/car8_1.png",
+                                    "./public/toyota/car8_2.png"
+                                ]
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "Kia": {
+            "series": {
+                "Rio": {
+
+                },
+                "K5": {
+
+                }
+            }
+        },
+        "Haval": {
+            "series": {
+                "Dargo": {
+
+                },
+                "F7": {
+
+                }
+            }
+        }
+    }
+}
+
+
+
